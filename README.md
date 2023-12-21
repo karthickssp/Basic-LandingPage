@@ -24,4 +24,4 @@ Welcome to the PerfectGarden Landing Page project! This is a simple and responsi
 
 LIVE
    ```bash
-   git clone https://github.com/your-username/perfectgarden-landingpage.git
+  https://karthickssp.github.io/Basic-LandingPage/
